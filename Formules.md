@@ -136,6 +136,7 @@ Ex. : "Have a nice evening" quand il est 9:00 en France et 18:00 sur la côte es
 - May the 4th be with you. _Star Wars : ne marche que le 4 mai ou dans une discussion qui parle d'un événement se déroulant le 4 mai_
 - Respect et Robustesse, _Astérix et Obélix, Mission Cléopâtre_
 - Longue vie et prospérité. _Star Trek (salut Vulcain)_
+- Soyez heureux ! _Demolition man_ : Peut être suivi de "Soyez enculé !"
 
 ## Formules adaptées au contexte de l'interlocuteur
 - En te souhaitant un millier de formidables premières fois, _note: Après une naissance_
